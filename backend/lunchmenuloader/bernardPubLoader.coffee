@@ -5,8 +5,8 @@ LunchmenuLoader = require './lunchmenuLoader'
 class BernardPubLoader extends LunchmenuLoader
     constructor: () ->
         @name = 'Bernard Pub'
-        @homepage = 'http://bernardpub.cz/andel/'
-        @downloadUrl = 'http://bernardpub.cz/andel/'
+        @homepage = 'http://www.bernardpub.cz/pub/andel'
+        @downloadUrl = 'http://www.bernardpub.cz/pub/andel'
         @phoneNumber = '+420 251 560 242'
         @address =
             street: 'Radlická 112/22'
